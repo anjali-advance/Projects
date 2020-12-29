@@ -1,0 +1,53 @@
+body{
+  text-align:center;
+  background: linear-gradient(lightpink 10%,lightblue 100%);
+}
+img{
+border-width: 5px;
+border-color: red;
+border-style: solid;
+border-radius:4px;
+   
+
+}
+
+.line{
+  height:7px;
+  width:100px;
+  background-color:black;
+  margin:auto;
+}
+p{
+  font size:18px;
+  color:darkblue;
+}
+#hobby{
+    font-family: 'Dancing Script', cursive;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;    
+}
+.link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+
+.menu a{
+    color:black !important;}
+li:hover{
+    background-color: aqua;
+}
+.welcome{
+     padding:70px;
+    text-align:center:
+}
